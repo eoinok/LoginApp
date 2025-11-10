@@ -1,4 +1,4 @@
-Login App
+# Login App
 
 - This app builds on the previous google firebase app and uses firebase to register and login
 - The App has multiple Screens
